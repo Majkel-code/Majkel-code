@@ -9,25 +9,40 @@
     <img height=150 align="center" src="https://github-majkel-code-readme-stats-five-bay.vercel.app/api/top-langs/?username=Majkel-code&layout=compact&border_radius=0&border_color=ff0078&hide_title=true&theme=blue-green&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
+<br/><br/>
 
-<br></br>
-<div align="center">
-  <p>🔭 I’m currently working on:</p>
-  <div align="center">
-    <li><a href="https://github.com/Majkel-code/GE_EvChargingStation">GE_EvChargingStation 🌿</a></li>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp; ↳ This project is created to show how looks like charging flow of electric car</p>
-    <div><img height=20  alt="Static Badge" src="https://img.shields.io/badge/Development-In_Progress-orange?style=flat">  <img alt="Static Badge" src="https://img.shields.io/badge/Stable-Master-00FF00ab?style=flat"></div>
-  </div>
-  <br></br>
-  <div align="center">
-    <li><a href="https://github.com/Majkel-code/BankObjectiveProject">Bank App 💸</a></li>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp; ↳ This project was initiated during classes as a form of skill development</p>
-    <div><img height=20  alt="Static Badge" src="https://img.shields.io/badge/Development-In_Progress-orange?style=flat">  <img alt="Static Badge" src="https://img.shields.io/badge/Stable-Master-00FF00ab?style=flat"></div>
-  </div>
-  <div>
-    <img src="https://github.com/Majkel-code/Majkel-code/assets/13604347/b71a318e-fde8-41ae-b88e-46f5f7e62ae6">
-  </div>
-</div>
+
+<!-- My Projects Section -->
+<h1 align="center">⌨️ My Projects ⌨️</h1>
+
+<br/><br/>
+<h3 align="center">
+I’m currently working on 🔭:
+</h3>
+
+<p>
+<li align="center"><a href="https://github.com/Majkel-code/GE_EvChargingStation">GE_EvChargingStation 🌿</a></li>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp; ↳ This project is created to show how looks like charging flow of electric car</p>
+<p align="center"><img height=20  alt="Static Badge" src="https://img.shields.io/badge/Development-In_Progress-orange?style=flat">  <img alt="Static Badge" src="https://img.shields.io/badge/Stable-Master-00FF00ab?style=flat"></p>
+</p>
+<br/><br/>
+<p>
+<li align="center"><a href="https://github.com/Majkel-code/BankObjectiveProject">Bank App 💸</a></li>
+<p align="center">&emsp; ↳ This project was initiated during classes as a form of skill development</p>
+<p align="center"><img height=20  alt="Static Badge" src="https://img.shields.io/badge/Development-In_Progress-orange?style=flat">  <img alt="Static Badge" src="https://img.shields.io/badge/Stable-Master-00FF00ab?style=flat"></p>
+</p>
+
+
+
+<img width=200 align="right" src="https://github.com/Majkel-code/Majkel-code/assets/13604347/fc6cb399-9091-4513-963e-449e12d71efd">
+<img width=200 align="left" hspace="10" src="https://github.com/Majkel-code/Majkel-code/assets/13604347/55b4dad6-2c44-4264-9b9b-95acb90a2506">
+</p>
+
+___
+
+
+
+
 
 
 ###
